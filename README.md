@@ -28,7 +28,7 @@ This section pairs the Gospel of Luke directly with its historical sequel, track
 
 ### 2. The Letters (The Pauline Corpus)
 The epistles of Paul, arranged to group his operational and pastoral correspondence clearly.
-*   1 & 2 Thessalonians, 1 & 2 Corinthians, Galatians, Romans, Colossians, Philemon, Ephesians, Philippians, 1 & 2 Timothy, Titus
+*   1 & 2 Thessalonians, 1 & 2 Corinthians, Galatians, Romans, Colossians,Ephesians, Philemon, Philippians, 1 & 2 Timothy, Titus
 
 ### 3. The Community (The General Epistles & Other Gospels)
 The remaining historical accounts and letters, concluding with the apocalyptic vision of Revelation.
