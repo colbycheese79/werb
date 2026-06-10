@@ -42,4 +42,7 @@ The text used in this project is sourced from the **World English Bible (WEB)**,
 
 The World English Bible is explicitly dedicated to the **public domain**. Because the underlying text is free of copyright restrictions, this reader's configuration is also free to copy, distribute, modify, and share without permission.
 
+## Tracking Updates from the World English Bible
+This edition will track updates to the World Enlish Bible and apply any updates to the text that affect the New Testament text.
+
 > **Disclaimer:** This project is an independent editorial arrangement. It is not affiliated with, endorsed by, or officially connected to any specific Bible publishers or organizational translation committees.
