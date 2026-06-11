@@ -1,4 +1,4 @@
-# World English Reader's Bible (WERB) — New Testament
+# World English Reader's Bible: The New Testament
 
 An independent, distraction-free digital reader's edition of the New Testament, re-ordered into structural and narrative groupings for an immersive reading experience.
 
@@ -6,7 +6,7 @@ An independent, distraction-free digital reader's edition of the New Testament, 
 
 ## Overview
 
-The **World English Reader's Bible (New Testament)** is designed for sustained, uninterrupted reading. By removing modern typographic additions and rearranging the books into a flowing, logical order, this edition allows you to engage with the text as a collection of continuous narratives, letters, and testimony.
+The **World English Reader's Bible: The New Testament** is designed for sustained, uninterrupted reading. By removing modern typographic additions and rearranging the books into a flowing, logical order, this edition allows you to engage with the text as a collection of continuous narratives, letters, and testimony.
 
 Like traditional "reader's editions," this project strips away the formatting overhead of reference Bibles to let the text speak for itself.
 
