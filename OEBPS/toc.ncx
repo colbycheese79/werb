@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:0dfc2690-ff54-5674-9e07-e6266c1ff41b"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (9.7.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>World English Reader's Bible</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Public Domain</text>
+      </navLabel>
+      <content src="copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="FRT.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Luke</text>
+      </navLabel>
+      <content src="LUK.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Acts</text>
+      </navLabel>
+      <content src="ACT.xhtml"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>1 Thessalonians</text>
+      </navLabel>
+      <content src="1TH.xhtml"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>2 Thessalonians</text>
+      </navLabel>
+      <content src="2TH.xhtml"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>1 Corinthians</text>
+      </navLabel>
+      <content src="1CO.xhtml"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>2 Corinthians</text>
+      </navLabel>
+      <content src="2CO.xhtml"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>Galatians</text>
+      </navLabel>
+      <content src="GAL.xhtml"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>Romans</text>
+      </navLabel>
+      <content src="ROM.xhtml"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>Colossians</text>
+      </navLabel>
+      <content src="COL.xhtml"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>Ephesians</text>
+      </navLabel>
+      <content src="EPH.xhtml"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>Philemon</text>
+      </navLabel>
+      <content src="PHM.xhtml"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>Philippians</text>
+      </navLabel>
+      <content src="PHP.xhtml"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>1 Timothy</text>
+      </navLabel>
+      <content src="1TI.xhtml"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>2 Timothy</text>
+      </navLabel>
+      <content src="2TI.xhtml"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>Titus</text>
+      </navLabel>
+      <content src="TIT.xhtml"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>Matthew</text>
+      </navLabel>
+      <content src="MAT.xhtml"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>Hebrews</text>
+      </navLabel>
+      <content src="HEB.xhtml"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>James</text>
+      </navLabel>
+      <content src="JAS.xhtml"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>Mark</text>
+      </navLabel>
+      <content src="MRK.xhtml"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>1 Peter</text>
+      </navLabel>
+      <content src="1PE.xhtml"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>2 Peter</text>
+      </navLabel>
+      <content src="2PE.xhtml"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>Jude</text>
+      </navLabel>
+      <content src="JUD.xhtml"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>John</text>
+      </navLabel>
+      <content src="JHN.xhtml"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>1 John</text>
+      </navLabel>
+      <content src="1JN.xhtml"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>2 John</text>
+      </navLabel>
+      <content src="2JN.xhtml"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>3 John</text>
+      </navLabel>
+      <content src="3JN.xhtml"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>Revelation</text>
+      </navLabel>
+      <content src="REV.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
