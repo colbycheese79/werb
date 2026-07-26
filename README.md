@@ -1,5 +1,9 @@
 # World English Reader's Bible: The New Testament
 
+[![License: CC0 1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Base Text](https://img.shields.io/badge/Base_Text-World_English_Bible-blue.svg)](#about-the-base-text)
+[![Scope](https://img.shields.io/badge/Scope-New_Testament-orange.svg)](#scope)
+
 An independent, distraction-free digital reader's edition of the New Testament, re-ordered into structural and narrative groupings for an immersive reading experience.
 
 ---
